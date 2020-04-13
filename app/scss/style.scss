@@ -419,6 +419,7 @@
   position: absolute;
   bottom: 35px;
   transform: translateX(-50%);
+  z-index: 1;
 
   &::before {
     content: "";
